@@ -13,17 +13,17 @@ Stack and wood
 
   course Contentent:
 
-  Axiomatic definition of probability spaces. 
-  Combinatorial methods.
-  Conditional probability;
-  product spaces.
-  Random variables; 
-  distribution and density functions; 
-  multivariate distribution;
-  conditional distributions and densities;
-  independent random variables.
-  Functions of random variables;
-  expected value, moments and characteristic functions
+      Axiomatic definition of probability spaces. 
+      Combinatorial methods.
+      Conditional probability;
+      product spaces.
+      Random variables; 
+      distribution and density functions; 
+      multivariate distribution;
+      conditional distributions and densities;
+      independent random variables.
+      Functions of random variables;
+      expected value, moments and characteristic functions
 
 [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/watch?v=C_W1adH-NVE&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
