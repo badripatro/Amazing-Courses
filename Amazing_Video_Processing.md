@@ -41,7 +41,9 @@
 
 --------------------------------------------------------------------------------------------------------------------
 ##Misc
-####[DSP](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/)
+
+#### [DSP](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/)
+
 	- Introduction 
 	- Discrete-time signals and systems
 	- The discrete-time Fourier transform 	
