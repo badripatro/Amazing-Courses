@@ -1,12 +1,13 @@
-#Amazing Probability,Random Variables and Stastic#
+#Amazing Natural Language Processing#
 
-###################################################################################################
+--------------------------------------------------------------------------------------------------------------------
 
 ##Book:
 papulisi
 Stack and wood
 
-###################################################################################################
+
+--------------------------------------------------------------------------------------------------------------------
 
 ##Video Lecture:
 
@@ -14,17 +15,19 @@ Stack and wood
 
 
 
-###################################################################################################
+--------------------------------------------------------------------------------------------------------------------
 ##Lecture Notes 
 
-[CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
-[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html)
+  - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
+  - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html)
 
-###################################################################################################
+
+--------------------------------------------------------------------------------------------------------------------
 ##Misc
-[MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015](https://www.youtube.com/watch?v=6AWZS4Ho2Z8&list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 
-###################################################################################################
+
+
+--------------------------------------------------------------------------------------------------------------------
 
 
 
