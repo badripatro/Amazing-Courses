@@ -1,12 +1,13 @@
 #Amazing Probability,Random Variables and Stastic#
 
-#######################################################################################################
+###################################################################################################
 
 ##Book:
 papulisi
 Stack and wood
 
-#######################################################################################################
+###################################################################################################
+
 ##Video Lecture:
 
 [EE230 - Probability and Random Variables](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz)
@@ -53,6 +54,7 @@ Course content
 
 [Introduction to Probability and Statistics 131A](https://www.youtube.com/watch?v=GyN4FotAEt8)
 
+Content
 Mathematics,Probability,statistical inference,random variables,probability distributions,expected values,limit theorems,joint distribution
 
     Week 1
@@ -81,16 +83,16 @@ Mathematics,Probability,statistical inference,random variables,probability distr
 
 
 
-#######################################################################################################
+###################################################################################################
 ##Lecture Notes 
 
 
 
-#######################################################################################################
+###################################################################################################
 ##Misc
 [MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015](https://www.youtube.com/watch?v=6AWZS4Ho2Z8&list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
 
-#######################################################################################################
+###################################################################################################
 
 
 
