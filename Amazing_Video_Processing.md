@@ -2,14 +2,14 @@
 --------------------------------------------------------------------------------------------------------------------
 ##Content
 
-  Digital Video Signal Processing	
-  Frequency domain Analysis of Video Signals and frequency response of Human
-  Video Sampling
-  Video Sampling Rate Conversion	
-  Video Modeling
-  Pinhole camera model
-  Motion Analysis	
-  Video Coding Basics	
+  - Digital Video Signal Processing	
+  -Frequency domain Analysis of Video Signals and frequency response of Human
+  -Video Sampling
+  -Video Sampling Rate Conversion	
+  -Video Modeling
+  -Pinhole camera model
+  -Motion Analysis	
+  -Video Coding Basics	
 
 --------------------------------------------------------------------------------------------------------------------
 
