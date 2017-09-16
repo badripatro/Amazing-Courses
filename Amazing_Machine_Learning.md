@@ -21,6 +21,7 @@
 
 ###################################################################################################
 ##Lecture Notes 
+
     [Introduction to Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/ml_autumn16/ML.html)
     [Probabilistic Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/pml_fall17/pml_fall17.html)
     [Bayesian Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/bml_winter17/bayesian_ml.html)
