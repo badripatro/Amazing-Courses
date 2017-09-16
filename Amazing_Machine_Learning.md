@@ -4,7 +4,7 @@
 
 ##Book:
 
-- [K. P. Murphy. Machine Learning - A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-0).
+- K. P. Murphy. [Machine Learning - A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-0).
 
 - C. Bishop. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2Fprml%2Findex.htm).
 - H. Daume III. [A Course in Machine Learning](http://ciml.info/).
@@ -23,9 +23,9 @@
 ###################################################################################################
 ##Lecture Notes 
 
-    [Introduction to Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/ml_autumn16/ML.html)
-    [Probabilistic Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/pml_fall17/pml_fall17.html)
-    [Bayesian Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/bml_winter17/bayesian_ml.html)
+- [Introduction to Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/ml_autumn16/ML.html)
+- [Probabilistic Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/pml_fall17/pml_fall17.html)
+- [Bayesian Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/bml_winter17/bayesian_ml.html)
 
 
 
