@@ -9,7 +9,7 @@ Stack and wood
 #######################################################################################################
 ##Video Lecture:
 
-[EE230 - Probability and Random Variables] (https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz)
+[EE230 - Probability and Random Variables](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz)
 
   course Contentent:
 
