@@ -1,5 +1,5 @@
 # Amazing-Courses
-## Linear Algebra
+## Linear Algebra[https://github.com/badripatro/Amazing-Courses/blob/master/Amazing%20Linear%20Algebra]
 ## Probability and stastic
 ## Optimization 
 ## Machine learning
