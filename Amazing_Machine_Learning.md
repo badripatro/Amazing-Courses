@@ -1,6 +1,6 @@
 # Amazing Machine Learning #
 
-###################################################################################################
+--------------------------------------------------------------------------------------------------------------------
 
 ##Book:
 
@@ -14,13 +14,15 @@
 - A. Smola and S. V. N. Vishwanathan. Introduction to Machine Learning. 
 - S. Shalev-Shwartz and S. Ben-David. [Understanding Machine Learning - From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf).
 
-###################################################################################################
+--------------------------------------------------------------------------------------------------------------------
 
 ##Video Lecture:
+[CS229-Machine Learning ](https://www.youtube.com/playlist?list=PLTuOKAhhBkunnUQlOYD0PtxC7EZk2TQMv)
+[undergraduate machine learning](https://www.youtube.com/watch?v=pid0lUH467o&list=PLc2Vt2TeBAU1qT_z48958P97Id7yE--DZ)
 
 
 
-###################################################################################################
+--------------------------------------------------------------------------------------------------------------------
 ##Lecture Notes 
 
 - [Introduction to Machine Learning](https://www.cse.iitk.ac.in/users/piyush/courses/ml_autumn16/ML.html)
@@ -29,13 +31,14 @@
 
 
 
-###################################################################################################
+--------------------------------------------------------------------------------------------------------------------
+
 ##Misc
   - [Machine Learning Summer Schools](http://mlss.cc/)
   - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
-###################################################################################################
+--------------------------------------------------------------------------------------------------------------------
 
 
 
