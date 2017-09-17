@@ -17,8 +17,8 @@
 --------------------------------------------------------------------------------------------------------------------
 
 ##Video Lecture:
-[CS229-Machine Learning ](https://www.youtube.com/playlist?list=PLTuOKAhhBkunnUQlOYD0PtxC7EZk2TQMv)
-[undergraduate machine learning](https://www.youtube.com/watch?v=pid0lUH467o&list=PLc2Vt2TeBAU1qT_z48958P97Id7yE--DZ)
+- [CS229-Machine Learning ](https://www.youtube.com/playlist?list=PLTuOKAhhBkunnUQlOYD0PtxC7EZk2TQMv)
+- [undergraduate machine learning](https://www.youtube.com/watch?v=pid0lUH467o&list=PLc2Vt2TeBAU1qT_z48958P97Id7yE--DZ)
 
 
 
