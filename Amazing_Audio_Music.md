@@ -198,6 +198,7 @@
 - [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
 - [Modeling and generating sequences of polyphonic music with the RNN-RBM](http://deeplearning.net/tutorial/rnnrbm.html)
 - [Misci: FAQ](https://www.reddit.com/r/algorithmicmusic/)
+- [basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 --------------------------------------------------------------------------------------------------------------------
 
 
