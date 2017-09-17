@@ -1,7 +1,7 @@
 #Amazing Audio Signal Processing for Music Applications#
 
 --------------------------------------------------------------------------------------------------------------------
-https://www.coursera.org/learn/audio-signal-processing#syllabus
+[audio-signal-processing: Syllabus](https://www.coursera.org/learn/audio-signal-processing#syllabus)
 
   - WEEK 1: Introduction
   > Introduction to the course, to the field of Audio Signal Processing, and to the basic mathematics needed to start the course. Introductory demonstrations to some of the software applications and tools to be used. Introduction to Python and to the sms-tools package, the main programming tool for the course.
