@@ -41,6 +41,32 @@
 --------------------------------------------------------------------------------------------------------------------
 ### Python  Tutorial
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+
+    Contents:
+      - Python
+          - Basic data types
+          - Containers
+              - Lists
+              - Dictionaries
+              - Sets
+              - Tuples
+          - Functions
+          - Classes
+      - Numpy
+          - Arrays
+          - Array indexing
+          - Datatypes
+          - Array math
+          - Broadcasting
+      - SciPy
+          - Image operations
+          - MATLAB files
+          - Distance between points
+      - Matplotlib
+          - Plotting
+          - Subplots
+          - Images
+
 --------------------------------------------------------------------------------------------------------------------
 
 
