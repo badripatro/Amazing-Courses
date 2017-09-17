@@ -170,34 +170,34 @@ https://www.coursera.org/learn/audio-signal-processing#syllabus
 
 --------------------------------------------------------------------------------------------------------------------
 ##Lecture Notes:
-[CMU-Computer Music Systems and Information Processing](http://www.cs.cmu.edu/~music//cmsip/slides/)
+- [CMU-Computer Music Systems and Information Processing](http://www.cs.cmu.edu/~music//cmsip/slides/)
 
-  - Concepts and techniques for representing and manipulating discrete music information, both in real time and off line. 
-  - Representations of music as explicitly timed event sequences will be introduced, and students will learn how to build efficient run-time systems for event scheduling, tempo control, and interactive processing.
-  - The MIDI protocol is used to capture real-time performance information and to generate sound. 
-  - The course will also cover non-real-time processing of music data, including Markov models, style recognition, computer accompaniment, query-by-humming, and algorithmic composition. 
-  - Introduction to Computer Music, which focuses on sound synthesis and signal processing
-  
-[Music Generation and Algorithmic Composition ](http://www.cs.cmu.edu/~music//cmsip/slides/05-algo-comp.pdf)
+	  - Concepts and techniques for representing and manipulating discrete music information, both in real time and off line. 
+	  - Representations of music as explicitly timed event sequences will be introduced, and students will learn how to build efficient run-time systems for event scheduling, tempo control, and interactive processing.
+	  - The MIDI protocol is used to capture real-time performance information and to generate sound. 
+	  - The course will also cover non-real-time processing of music data, including Markov models, style recognition, computer accompaniment, query-by-humming, and algorithmic composition. 
+	  - Introduction to Computer Music, which focuses on sound synthesis and signal processing
+
+- [Music Generation and Algorithmic Composition ](http://www.cs.cmu.edu/~music//cmsip/slides/05-algo-comp.pdf)
 --------------------------------------------------------------------------------------------------------------------
 ###Misc
 #### Materials:
-[[CMU-Computer Music Systems and Information Processing]]http://www.cs.cmu.edu/~music//cmsip/resources.html
+- [CMU-Computer Music Systems and Information Processing](http://www.cs.cmu.edu/~music//cmsip/resources.html)
 
 #### Music Blog:
-[deepjazz](https://deepjazz.io/)
+- [deepjazz](https://deepjazz.io/)
 
 #### Github Code:
-[How-to-Generate-Music-Demo](https://github.com/llSourcell/How-to-Generate-Music-Demo)
-[Art Generation (Style Transfer)](https://github.com/erilyth/DeepLearning-Challenges/tree/master/Art_Generation)
-[How-to-Generate-Art-Demo](https://github.com/michalpelka/How-to-Generate-Art-Demo/blob/master/demo.ipynb)
+- [How-to-Generate-Music-Demo](https://github.com/llSourcell/How-to-Generate-Music-Demo)
+- [Art Generation (Style Transfer)](https://github.com/erilyth/DeepLearning-Challenges/tree/master/Art_Generation)
+- [How-to-Generate-Art-Demo](https://github.com/michalpelka/How-to-Generate-Art-Demo/blob/master/demo.ipynb)
 
 #### More Learning Resources:
-[Understanding LSTM and its diagrams](https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714)
-[Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
-[Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
-[Modeling and generating sequences of polyphonic music with the RNN-RBM](http://deeplearning.net/tutorial/rnnrbm.html)
-[Misci: FAQ](https://www.reddit.com/r/algorithmicmusic/)
+- [Understanding LSTM and its diagrams](https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714)
+- [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
+- [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
+- [Modeling and generating sequences of polyphonic music with the RNN-RBM](http://deeplearning.net/tutorial/rnnrbm.html)
+- [Misci: FAQ](https://www.reddit.com/r/algorithmicmusic/)
 --------------------------------------------------------------------------------------------------------------------
 
 
