@@ -61,11 +61,13 @@
 
 ##Video Lecture:
 
-
+- [oxford-deep-learning-2015-by Nando de Freitas](https://www.youtube.com/watch?v=PlhFWT7vAEw&index=16&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+- [CS231n: Convolutional Neural Networks for Visual Recognition - Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
 --------------------------------------------------------------------------------------------------------------------
 ##Lecture Notes 
 
+  - [oxford-deep-learning-2015-by Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   - [Visual Recognition-1-2017](https://www.cse.iitk.ac.in/users/vinaypn/teaching/visrec/)
   - [Visual Recognition-2-2017](https://www.cse.iitk.ac.in/users/vinaypn/teaching/visrec2/)
 --------------------------------------------------------------------------------------------------------------------
